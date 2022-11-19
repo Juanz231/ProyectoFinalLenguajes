@@ -1,8 +1,7 @@
-# Practica 1 - Lenguajes de Programación
+# Practica Final - Lenguajes de Programación
 # Integrantes: 
-Evelyn Alejandra Zapata Tobón - Sara Valentina Cortés Manrique
+Juan Diego Lopez Guisao - Sara Valentina Cortés Manrique
 # Descripción: 
-Esta práctica tiene como objetivo observar el funcionamiento de  las listas enlazadas y la programación orientada a objetos en el lenguaje de programación C++, gracias a la implementación de un menú que le permite al usuario realizar diversas operaciones con dichas listas e interactuar con los datos ingresados.
-Para realizar la práctica se utilizó el IDE Clion y la versión CMAKE_CXX_STANDARD 17 del compilador de C++
-# Video de Sustentación:
-https://www.youtube.com/watch?v=bLjqIKcLkxA
+El objetivo de esta practica era desarrollar un programa que nos permitiera analizar la sintaxis de las palabras segun las reglas de la gramatica del español.
+El lenguage escogido fue Python, debido a la facil sintaxis, ademas de la posibilidad de usar la libreria Spacy.
+
