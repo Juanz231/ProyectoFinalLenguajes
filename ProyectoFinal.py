@@ -11,7 +11,7 @@ def Menu():
           "Santiago,", "Esteban,", "Camilo,"+"]\n")
     print("- Si la oración a analizar está en tiempo pasado, poner las tildes necesarias.\n")
     while (True):
-        opcion = input("Ingrese 0 para salir y 1 para analizar texto: ")
+        opcion = input("Ingrese 0 para salir, 1 para analizar texto: ")
         if opcion == "0":
             exit()
         if opcion == "1":
